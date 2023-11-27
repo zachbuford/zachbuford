@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zachbuford/static/css/main.f855e6bc.css",
+    "main.js": "/zachbuford/static/js/main.526838f8.js",
+    "static/js/787.44094c0e.chunk.js": "/zachbuford/static/js/787.44094c0e.chunk.js",
+    "static/media/logo.svg": "/zachbuford/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zachbuford/index.html",
+    "main.f855e6bc.css.map": "/zachbuford/static/css/main.f855e6bc.css.map",
+    "main.526838f8.js.map": "/zachbuford/static/js/main.526838f8.js.map",
+    "787.44094c0e.chunk.js.map": "/zachbuford/static/js/787.44094c0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.526838f8.js"
+  ]
+}
