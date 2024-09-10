@@ -1,6 +1,6 @@
 # Well you've finally found my github profile..
 
-## I'm currently working on updating my [website](www.zachbuford.com) and finding a full-time position (with benefits)
+## I'm currently working on updating my [website](https://zachbuford.com) and finding a full-time position (with benefits)
 
 ### But otherwise you'll find me learning Chinese(现代标准汉语), bicycling, or playing Rimworld.
 
